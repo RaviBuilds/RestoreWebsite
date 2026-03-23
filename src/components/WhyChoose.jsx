@@ -9,9 +9,12 @@ function WhyChoose() {
             <span className="main-tagline mx-auto !block max-w-fit">
               Why Choose Phixl?
             </span>
-            <h2 className="section-title section-title-why ">Experience the Best AI Technology</h2>
+            <h2 className="section-title section-title-why ">
+              Experience the Best AI Technology
+            </h2>
             <p className="section-subtitle">
-             Our advanced features make creating stunning transformations simple and fast
+              Our advanced features make creating stunning transformations
+              simple and fast
             </p>
           </div>
           <div className="section-content-cards">
@@ -20,15 +23,15 @@ function WhyChoose() {
                 <div className="feature-card-img">🎯</div>
                 <h3 className="feature-card-heading">User-Friendly</h3>
                 <p className="feature-card-info">
-                  Our intuitive interface allows you to effortlessly generate
-                  deepnude images in just seconds.
+                  Our intuitive interface allows you to effortlessly restore
+                  images in just seconds.
                 </p>
               </div>
               <div className="feature-card">
                 <div className="feature-card-img">⚡</div>
                 <h3 className="feature-card-heading">Consistent Quality</h3>
                 <p className="feature-card-info">
-                  Our advanced AI ensures reliable and high-quality deepnude
+                  Our advanced AI ensures reliable and high-quality restoration
                   results every time.
                 </p>
               </div>
@@ -36,8 +39,8 @@ function WhyChoose() {
                 <div className="feature-card-img">🔒</div>
                 <h3 className="feature-card-heading">Privacy Assured</h3>
                 <p className="feature-card-info">
-                  Your images are securely processed and immediately deleted
-                  after generating deepnude images, ensuring your privacy.
+                  Your images are securely processed and stored in your account
+                  for perticular time, ensuring your privacy.
                 </p>
               </div>
               <div className="feature-card">
@@ -45,14 +48,14 @@ function WhyChoose() {
                 <h3 className="feature-card-heading">Lighting Speed</h3>
                 <p className="feature-card-info">
                   Experience instant results with our fast AI technology,
-                  generating deepnude images in mere seconds.
+                  restore old images in mere seconds.
                 </p>
               </div>
               <div className="feature-card">
                 <div className="feature-card-img">💰</div>
                 <h3 className="feature-card-heading">Cost-Effective</h3>
                 <p className="feature-card-info">
-                  Our affordable pricing plans make deepnude technology
+                  Our affordable pricing plans make old image restoration
                   accessible to everyone.
                 </p>
               </div>
@@ -61,7 +64,7 @@ function WhyChoose() {
                 <h3 className="feature-card-heading">Scalable Solutions</h3>
                 <p className="feature-card-info">
                   Whether you're an individual user or part of a large team, our
-                  deepnude service scales to meet all your needs.
+                  restore old images service scales to meet all your needs
                 </p>
               </div>
             </div>
