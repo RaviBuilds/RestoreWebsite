@@ -52,7 +52,7 @@ function HowItWorks() {
                   <div className="section-card-content-img">
                     ⬇️ <span>Download</span>
                   </div>
-                  <p>Get your deepnude image in high quality</p>
+                  <p>Get your beautiful image in high quality</p>
                 </div>
               </div>
             </div>
